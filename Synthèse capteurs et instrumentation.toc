@@ -1,0 +1,5 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {chapter}{Conclusion}{3}
+\contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{4}
