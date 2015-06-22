@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.8)  17 JUN 2015 17:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.8)  22 JUN 2015 15:38
 entering extended mode
 **Synthèse*capteurs*et*instrumentation.tex
-("C:\Users\pmougin\Documents\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.tex"
+("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -10,7 +10,7 @@ ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, 
 -x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
 ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
 elsh, loaded.
-("C:\Users\pmougin\Documents\Capteurs et instrumentalisation\livret.cls"
+("D:\Dev\Project\Capteurs et instrumentalisation\livret.cls"
 Document Class: livret 2005/10/20 v0.1a, Julien Blitte
 (D:\LaTeX\MiKTeX\tex\latex\base\size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
@@ -305,7 +305,7 @@ Package: SIunits 2007/12/02 v1.36 Support for the International System of units 
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
 \symgreek=\mathgroup4
 (C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\latex\siunits\SIunits.cfg))
-("C:\Users\pmougin\Documents\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux")
+("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -414,52 +414,75 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 35.
  [1
 
-{C:/Users/pmougin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/pmougin/Documents/Capteurs et instrumenta
-lisation/cpe.jpg>]
+{C:/Users/pmougin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dev/Project/Capteurs et instrumentalisation/cpe
+.jpg>]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 49.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 49.
 
-("C:\Users\pmougin\Documents\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.toc"
+("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.toc"
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
 )
 \tf@toc=\write3
  [1
 
-] [2
+]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 54.
+ [2
 
 ]
-[3
+Chapitre 1.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 59.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 59.
+<body-area-network.jpg, id=18, 120.2091pt x 71.0655pt>
+File: body-area-network.jpg Graphic file (type jpg)
+ <use body-area-network.jpg>
+Package pdftex.def Info: body-area-network.jpg used on input line 67.
+(pdftex.def)             Requested size: 240.4176pt x 142.13062pt.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 68.
+ [3
+
+ <D:/Dev/Project/Capteurs et instrumentalisation/body-area-network.jpg>]
+Chapitre 2.
+[4
+
+] [5
 
 ]
 Annexe A.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 67.
+(Font)              scaled to size 12.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 67.
-[4
+(Font)              scaled to size 12.0pt on input line 100.
+[6
 
-] ("C:\Users\pmougin\Documents\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux") ) 
+] ("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux") ) 
 Here is how much of TeX's memory you used:
- 5282 strings out of 493921
- 78796 string characters out of 3152089
- 129385 words of memory out of 3000000
- 8494 multiletter control sequences out of 15000+200000
- 69385 words of font info for 41 fonts, out of 3000000 for 9000
+ 5300 strings out of 493921
+ 79083 string characters out of 3152089
+ 132385 words of memory out of 3000000
+ 8506 multiletter control sequences out of 15000+200000
+ 89134 words of font info for 48 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,4n,33p,269b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/pm
-ougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/
-fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_25
-tcsq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_omcwp2.enc}<C:/Users/pmougin/AppDat
-a/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/ty
-pe1/public/libertine/LinBiolinumTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibe
-rtineT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on "Synthèse capteurs et instrumentation.pdf" (5 pages, 300064 bytes).
+ 27i,6n,33p,751b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/pmougin/AppDat
+a/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dv
+ips/libertine/lbtn_7grukw.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:
+/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pmougin/AppData/Roaming/Mi
+KTeX/2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertin
+e/lbtn_omcwp2.enc}<C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/p
+mougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTe
+X/2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lib
+ertine/LinLibertineTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on "Synthèse capteurs et instrumentation.pdf" (7 pages, 436883 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

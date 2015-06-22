@@ -25,7 +25,7 @@
 
     % Title
     \HRule \\[0.4cm]
-    { \huge \bfseries Reseau de capteurs pour la surveillance de paramètres physiologiques du corps humain\\[0.4cm] }
+    { \huge \bfseries Réseau de capteurs pour la surveillance de paramètres physiologiques du corps humain\\[0.4cm] }
 
     \HRule \\[2cm]
 
@@ -51,8 +51,47 @@
 \chapter*{Introduction}
 \addcontentsline{toc}{chapter}{Introduction}
 \paragraph{}
-Test Majuscules et accents e é è 
+	Aujourd'hui, avec la miniaturisation des cartes électroniques, des projets qui hier n'étaient que des idées sont maintenant possibles. C'est le cas des \emph{BAN} pour \emph{Body Area Network}, ces réseaux de capteurs minimalistes permettant de contrôler en temps réel les données biomédicales du corps humain.
+	\paragraph{}
+	Mais si la miniaturisation des composants électroniques a permis l'arrivée de ce nouveaux type de capteurs, ce n'est pas la seule difficulté technique à laquelle les chercheurs et ingénieurs dans ce domaine ont dû se confronter. La faible consommation d'énergie, les protocoles de communications sans fil ou encore la durée de vie des capteurs en fonction de leur utilité sont autant de challenges à relever pour être au plus près de l'information qui nous intéresse : le corps humain.
 	
+	\chapter{Les Body Area Network, leur utilisation et leurs spécificités}
+	\section{Qu'est-ce qu'un BAN ?}
+	Un BAN (Body Area Network) ou WBAN (Wireless Body Area Network) ou encore BASN (Bodu area Sensor Network) voir même WBASN (Wireless Body Area Sensor Network) désigne comme son nom l'indique un réseau de capteurs sans fil \oe{}uvrant dans ou autour du corps humain. 
+	
+	\paragraph{}
+	Ce réseau de capteurs permet de mesurer des données physiologiques du corps, comme la température, la pression, l'activité électrique et tout autres données pouvant servir à l'étude en temps réelle du corps humain. Toutes ces données sont alors mises en commun par un microcontrôleur qui gère ce réseau de capteur et traite les données. Une fois les donnée traité, le microcontrôleur émet des signaux radio pour communiquer avec des appareils extérieurs, comme un smartphone ou un serveur qui vont, à leur tour, analyser et traiter les données du réseau de capteurs pour les utiliser dans différents buts, de l'archivage de données à l'appel automatisé d'un service d'urgence.
+	
+		\begin{figure}[h]
+	\centering
+		\includegraphics[scale=2]{body-area-network.jpg}
+	\caption{Schéma d'un réseau de capteur BAN}
+	\end{figure}
+	
+	Le microprocesseur peut aussi être amené a contrôler directement des actionneurs en fonction des données transmises par les capteur, comme c'est le cas pour les pompes à insuline par exemple.
+	
+	\section{Usages}
+	\paragraph{}
+		Les usages des BAN sont nombreux et pluridisciplinaires même si sa principale utilisation reste le domaine médical et le suivit des paramètres vitaux comme :
+		
+		\begin{itemize}
+			\item \textbf{Le rythme cardiaque}, à l'aide d'oxymètres et d'électrocardiogrammes qui permettent de prévenir les risques d'arythmie ou de baisse de tension.
+			\item \textbf{L'activité cérébrale}, à l'aide d'électroencéphalogrammes comme l'unité \emph{Mobi} qui préviennent les risques d'épilepsie.
+			\item \textbf{La Température et l'humidité}, afin de connaître l'état physique du patient suivis (fièvre, suées, humidité de l'environnement immédiat, etc.)
+			\item \textbf{Le glycémie}, à l'aide d'une méthode non invasive de mesure infrarouge ou optique. Ceci permet de mesurer le taux de sucre dans le sang et d'ainsi contrôler plus aisément le diabète. Cette solution est souvent couplée avec une pompe à insuline contrôlée par un signal du microprocesseur, ce qui permet de réduire considérablement les nuisance de la maladie.
+			\item \textbf{D'autres maladies} sont ainsi suivies en continue grâce à des BAN, comme la maladie de Parkinson (à l'aide de détecteurs de mouvements et d'accéléromètres), Alzheimer (à l'aide d'électrode et d'électroencéphalogrammes) ou encore l'asthme et les allergies (à l'aide de capteurs d'allergènes).
+		\end{itemize}
+		
+		\paragraph{}
+		Mais les BAN peuvent aussi être utilisé dans d'autres domaines comme le domaine du sport ou un électrocardiogramme et des capteurs de mouvement, accéléromètres et gyroscopes pour mesurer aussi bien le rythme cardiaque que les mouvements pendant l'effort. Le même principe est utilisé dans le domaine des jeux vidéo pour simuler des positions et ainsi faire bouger des avatars ou même plus : immerger totalement le joueur dans une réalité virtuelle.
+		
+		\paragraph{}
+		Avec l’avènement du \emph{Big Data} et la collecte et la mise en relation d'informations personnelles pour améliorer et simplifier la vie, les BAN on encore de beaux jour devant eux, surtout si ceux-ci peuvent communiquer avec un serveur et envoyer leur données dans le \emph{cloud}. 
+		
+		
+	\section{Caractéristique et spécification}
+	
+	\chapter{Un exemple de BAN: le Toumaz Sensium Digital Plaster}
 
 
 		

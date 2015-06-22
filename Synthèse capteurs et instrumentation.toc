@@ -1,5 +1,13 @@
 \select@language {french}
 \contentsline {chapter}{Introduction}{2}
 \contentsline {paragraph}{}{2}
-\contentsline {chapter}{Conclusion}{3}
-\contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{4}
+\contentsline {paragraph}{}{2}
+\contentsline {chapter}{\numberline {1}Les Body Area Network, leur utilisation et leurs sp\'ecificit\'es}{3}
+\contentsline {section}{\numberline {1.1}Qu'est-ce qu'un BAN ?}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {1.2}Usages}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {1.3}Caract\'eristique et sp\'ecification}{3}
+\contentsline {chapter}{\numberline {2}Un exemple de BAN: le Toumaz Sensium Digital Plaster}{4}
+\contentsline {chapter}{Conclusion}{5}
+\contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{6}
