@@ -7,7 +7,14 @@
 \contentsline {paragraph}{}{3}
 \contentsline {section}{\numberline {1.2}Usages}{3}
 \contentsline {paragraph}{}{3}
-\contentsline {section}{\numberline {1.3}Caract\'eristique et sp\'ecification}{3}
-\contentsline {chapter}{\numberline {2}Un exemple de BAN: le Toumaz Sensium Digital Plaster}{4}
-\contentsline {chapter}{Conclusion}{5}
-\contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{6}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {section}{\numberline {1.3}Caract\'eristique et sp\'ecification}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {chapter}{\numberline {2}Un exemple de BAN: le Toumaz Sensium Digital Plaster}{6}
+\contentsline {chapter}{Conclusion}{7}
+\contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{8}

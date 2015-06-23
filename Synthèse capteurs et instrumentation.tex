@@ -9,6 +9,7 @@
 \usepackage{eurosym}
 \usepackage{amsmath}
 \usepackage{SIunits}
+\frenchbsetup{StandardLists=true}
 
 
 \newcommand{\hsp}{\hspace{20pt}}
@@ -86,10 +87,52 @@
 		Mais les BAN peuvent aussi être utilisé dans d'autres domaines comme le domaine du sport ou un électrocardiogramme et des capteurs de mouvement, accéléromètres et gyroscopes pour mesurer aussi bien le rythme cardiaque que les mouvements pendant l'effort. Le même principe est utilisé dans le domaine des jeux vidéo pour simuler des positions et ainsi faire bouger des avatars ou même plus : immerger totalement le joueur dans une réalité virtuelle.
 		
 		\paragraph{}
-		Avec l’avènement du \emph{Big Data} et la collecte et la mise en relation d'informations personnelles pour améliorer et simplifier la vie, les BAN ont encore de beaux jours devant eux. Surtout si ceux-ci peuvent communiquer avec un serveur et envoyer leur données dans le \emph{cloud} où elles seront mise en relations avec d'autres donnée dans le Big data.
+		Avec l'avènement du \emph{Big Data} et la collecte et la mise en relation d'informations personnelles pour améliorer et simplifier la vie, les BAN ont encore de beaux jours devant eux. Surtout si ceux-ci peuvent communiquer avec un serveur et envoyer leur données dans le \emph{cloud} où elles seront mise en relations avec d'autres données dans le Big data.
 		
 		
 	\section{Caractéristique et spécification}
+	\paragraph{}
+	Lors de la conception d'un BAN, de nombreux paramètres doivent être pris en compte. Comme l'encombrement, l'autonomie, la plage de communication sans fil mais aussi le cryptage des données. Face à ces différents challenges, les chercheurs on trouvé plusieurs angles d'attaque :
+	
+	\subsubsection*{Encombrement}
+	\paragraph{}
+	Limiter la taille et le poids des capteurs et du microprocesseur est important pour l'utilisateur du réseau. Le but est que le capteur dérange le moins possible l'utilisateur voir qu'il ne le sente même plus et l'oublie. De plus, le faible encombrement du capteur peut aussi faciliter l'approche de la zone où la donnée vitale doit être mesurée. Pour le moment, les capteurs les plus rependu sont des capteurs de type \emph{patch}. Il peut aussi s'agir de petite puce implémentée dans le bras, comme pour les capteur de glycémie voir même des pilules à avaler comme pour les pilule-caméra.
+	
+	\subsubsection*{Autonomie}
+	\paragraph{}
+	L'efficacité énergétique est l'une des caractéristiques les plus importantes voir la plus importante des BAN. L'autonomie du réseau dépend de l'application faite de celui-ci et peut varier de quelques heures à des années sans aucune intervention extérieur. Aussi il est donc extrêmement important de bien qualifier et quantifier les besoin en énergie de l'application. Dans le cadre d'une pilule à avaler par exemple, la durée de vue n'est que de 12 heure alors qu'un défibrillateur cardiaque devra avoir une durée de vie de plus de 5 ans.
+	
+	\paragraph{}
+	Pour des raisons de coût également, le système se doit d'être le moins gourmand en énergie et sa source doit être dimensionnée exactement à la hauteur de ses besoins. Ce qui implique un énorme travail d'ajustement au niveau de l'alimentation de ces réseaux et des composants utilisés.
+	
+	\subsubsection*{Communication}
+	\paragraph{}
+	Dans un réseau, l'une des caractéristiques primordiales est la communication entre ces différents éléments. Ici il s'agit d'un réseau sans fil pouvant communiqué en interne et en externe. Deux principales solutions sont utilisées à l'heure actuelle dans les BAN :
+	
+	
+	\begin{itemize}
+		\item \textbf{Zigbee et IEEE 802.15.4.} Ces deux technologies sont complémentaires: Zigbee est un protocole de niveau haut alors que IEEE 802.15.4 s'occupe des communications bas niveau (couches physique et MAC). Cependant le Zigbee, dont la fréquence est de 2.4GHz est trés sensible au interférence ce qui peut être problématique suivant la topologie du corps et de l'environnement.
+		\item \textbf{Bluetooth Low Energy.} Avec l'arrivée de ce nouveau protocole de communication à très faible consommation, certains BAN utilise ce protocole qui permet de communiquer très facilement avec d'autre appareils.
+		\item \textbf{IEEE 802.15.6.} C'est une norme de communication qui n'a fait sont apparition que très récement (en 2012) et qui a été spécialement conçue pour les réseaux de capteurs corporels. Le protocole s'établit sur trois couches:
+		\begin{itemize}
+			\item Une couche physique à bande étroite, permet de contrôler les capteurs et de communiquer les données. Il existe deux cents trente canaux différents répartie sur plusieurs bandes de fréquences allant de 400 MHz à 2.4 GHz.
+			\item Une couche physique à bande ultralarge qui permet une communication rapide sur de courtes distances pour une consommation faible. La fréquence centrale est de 499.2 MHz et les canaux vont de 3.5GHz à 9.9GHz. 
+			\item Une couche physique de la communication corps humain qui opère à une fréquence de 21 Mhz et n'est composé que d'électrode ne communiquant que dans un seul sens.
+		\end{itemize}
+		
+		Le principale avantage de l'IEEE 802.15.6 est sa grande fiabilité, sa efficience énergétique et sa diversité, entre vitesse de transfère et fréquences utiles comme le montre le schéma suivant :
+	\end{itemize}
+	
+	\newpage{}
+	
+			\begin{figure}[h]
+	\centering
+		\includegraphics[scale=0.5]{com.png}
+	\caption{Comparatif entre les différents protocoles de communication}
+	\end{figure}
+	
+	\subsubsection*{Sécuritée et cryptographie}
+	Il est également important que les donnée envoyées sur le réseau sans fils soient protégées par un codage afin qu'elles ne puissent pas être interceptées et utilisées par n'importe qui. Pour cela, les équipements actuels utilise un chifframent matériel qui est très efficace mais qui ne permet pas l'utilisation des capteurs en dehors du réseau.
 	
 	\chapter{Un exemple de BAN: le Toumaz Sensium Digital Plaster}
 
@@ -107,6 +150,13 @@
 
 	
 	\subsection*{Bibliographie}
+	\subsubsection*{Energy Comparison and Optimization of Wireless Body-Area Network Technologies}
+	de Le Yan, Niraj K. Jha de l'Université de Princeton et  Lin Zhong de l'Université Rice à Houston\\
+	http://www.ruf.rice.edu/~mobile/publications/yan07bsn.pdf
+	\subsubsection*{Wireless Body Area Networks: Where Does Energy Go?}
+	de Sangwon Lee et Murali Annavaram de l'Université de Californie du Sud à Los Angeles\\
+	http://www.usc.edu/dept/ee/scip/assets/004/82404.pdf
+
 
 	
 	

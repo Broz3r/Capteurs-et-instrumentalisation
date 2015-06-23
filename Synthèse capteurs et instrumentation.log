@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.8)  22 JUN 2015 15:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.8)  23 JUN 2015 17:00
 entering extended mode
 **Synthèse*capteurs*et*instrumentation.tex
 ("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.tex"
@@ -306,32 +306,32 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
 \symgreek=\mathgroup4
 (C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\latex\siunits\SIunits.cfg))
 ("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
 
 (D:\LaTeX\MiKTeX\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on input line 17.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on input line 18.
 
 (C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\latex\libertine\t1linuxlibertinet-tlf.fd
 File: T1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -367,9 +367,9 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 17.
-LaTeX Info: Redefining \dots on input line 17.
-LaTeX Info: Redefining \up on input line 17.
+LaTeX Info: Redefining \degres on input line 18.
+LaTeX Info: Redefining \dots on input line 18.
+LaTeX Info: Redefining \up on input line 18.
 \c@mv@tabular=\count108
 \c@mv@boldtabular=\count109
 (C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -386,40 +386,40 @@ LaTeX Info: Redefining \up on input line 17.
 \makeMPintoPDFobject=\count115
 \everyMPtoPDFconversion=\toks26
 )
-LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on input line 20.
+LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on input line 21.
  (C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
 File: T1LinuxBiolinumT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 20.
+(Font)              scaled to size 10.0pt on input line 21.
 
 <cpe.jpg, id=1, 1100.11pt x 751.80875pt>
 File: cpe.jpg Graphic file (type jpg)
  <use cpe.jpg>
-Package pdftex.def Info: cpe.jpg used on input line 22.
+Package pdftex.def Info: cpe.jpg used on input line 23.
 (pdftex.def)             Requested size: 200.0pt x 136.67339pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 24.
+(Font)              scaled to size 10.0pt on input line 25.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 25.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 28.
+(Font)              scaled to size 20.74pt on input line 29.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/LinuxBiolinumT-TLF/b/n' tried instead on input line 28.
+(Font)              Font shape `T1/LinuxBiolinumT-TLF/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 28.
+(Font)              scaled to size 20.74pt on input line 29.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 34.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 35.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 36.
  [1
 
 {C:/Users/pmougin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dev/Project/Capteurs et instrumentalisation/cpe
 .jpg>]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 49.
+(Font)              scaled to size 24.88pt on input line 50.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 49.
+(Font)              scaled to size 24.88pt on input line 50.
 
 ("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.toc"
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
@@ -430,59 +430,77 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 
 ]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 54.
+(Font)              scaled to size 10.0pt on input line 55.
  [2
 
 ]
 Chapitre 1.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 59.
+(Font)              scaled to size 14.4pt on input line 60.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 59.
+(Font)              scaled to size 14.4pt on input line 60.
 <body-area-network.jpg, id=18, 120.2091pt x 71.0655pt>
 File: body-area-network.jpg Graphic file (type jpg)
  <use body-area-network.jpg>
-Package pdftex.def Info: body-area-network.jpg used on input line 67.
+Package pdftex.def Info: body-area-network.jpg used on input line 68.
 (pdftex.def)             Requested size: 240.4176pt x 142.13062pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 68.
+(Font)              scaled to size 10.0pt on input line 69.
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on input line 79.
+
+(C:\Users\pmougin\AppData\Roaming\MiKTeX\2.9\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+File: TS1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 79.
  [3
 
- <D:/Dev/Project/Capteurs et instrumentalisation/body-area-network.jpg>]
-Chapitre 2.
-[4
+ <D:/Dev/Project/Capteurs et instrumentalisation/body-area-network.jpg>] [4] <com.png, id=27, 999.735pt x 410.53375pt>
+File: com.png Graphic file (type png)
+ <use com.png>
+Package pdftex.def Info: com.png used on input line 130.
+(pdftex.def)             Requested size: 499.86627pt x 205.26637pt.
 
-] [5
+Overfull \hbox (16.1694pt too wide) in paragraph at lines 130--131
+ [][] 
+ []
+
+[5 <D:/Dev/Project/Capteurs et instrumentalisation/com.png (PNG copy)>]
+Chapitre 2.
+[6
+
+] [7
 
 ]
 Annexe A.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
+(Font)              scaled to size 12.0pt on input line 149.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
-[6
+(Font)              scaled to size 12.0pt on input line 149.
+[8
 
 ] ("D:\Dev\Project\Capteurs et instrumentalisation\Synthèse capteurs et instrumentation.aux") ) 
 Here is how much of TeX's memory you used:
- 5300 strings out of 493921
- 79083 string characters out of 3152089
- 132385 words of memory out of 3000000
- 8506 multiletter control sequences out of 15000+200000
- 89134 words of font info for 48 fonts, out of 3000000 for 9000
+ 5337 strings out of 493921
+ 80053 string characters out of 3152089
+ 134464 words of memory out of 3000000
+ 8536 multiletter control sequences out of 15000+200000
+ 89837 words of font info for 50 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,33p,751b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pmougin/AppDat
-a/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dv
-ips/libertine/lbtn_7grukw.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:
-/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pmougin/AppData/Roaming/Mi
-KTeX/2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertin
-e/lbtn_omcwp2.enc}<C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/p
-mougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTe
-X/2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lib
-ertine/LinLibertineTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "Synthèse capteurs et instrumentation.pdf" (7 pages, 436883 bytes).
+a/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dv
+ips/libertine/lbtn_ncsllp.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:
+/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Users/pmougin/AppData/Roaming/Mi
+KTeX/2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertin
+e/lbtn_25tcsq.enc}{C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_omcwp2.enc}<C:/Users/pmoug
+in/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertin
+e/LinLibertineT.pfb><C:/Users/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Use
+rs/pmougin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on "Synthèse capteurs et instrumentation.pdf" (9 pages, 486257 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
