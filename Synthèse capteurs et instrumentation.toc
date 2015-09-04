@@ -15,6 +15,13 @@
 \contentsline {paragraph}{}{4}
 \contentsline {paragraph}{}{4}
 \contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
 \contentsline {chapter}{\numberline {2}Un exemple de BAN: le Toumaz Sensium Digital Plaster}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
 \contentsline {chapter}{Conclusion}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
 \contentsline {chapter}{\numberline {A}Sources \& Bibliographie}{8}
